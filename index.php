@@ -12,7 +12,7 @@
 </head>
 
 <body>
-  <!-- Showcase & Nav -->
+  <!-- Showcase & Navi -->
   <div id="showcase">
     <header>
       <nav class='cf'>
